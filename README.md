@@ -8,7 +8,7 @@ Do not use for your own homework.
 
 
 
-Following setup settings were used with Code Composer:
+**Following setup settings were used with Code Composer:**
 
 Target: Tiva C Series - Tiva TM4C123GH6PM
 
@@ -17,12 +17,12 @@ Connection: Stellaris In-Circuit Debug Interface
 Compiler Version: TI v16.9.6.LTS
 
 
-Included Options:
+**Included Options:**
 
 C:\ti\TivaWare_C_Series-2.1.4.178\inc
 
 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib
 
 
-File Search Paths:
-:\ti\TivaWare_C_Series-2.1.4.178\driverlib\ccs\Debug\driverlib.lib
+**File Search Paths:**
+C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\ccs\Debug\driverlib.lib
